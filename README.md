@@ -1,5 +1,5 @@
 ### Hi there 👋
-😄 My is Andrew Gyakobo
+😄 My is name Andrew Gyakobo
 
 🔭 I am a simple student in NJIT persuing a Computer Engineering Degree
 
