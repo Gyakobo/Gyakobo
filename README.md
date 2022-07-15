@@ -1,7 +1,7 @@
 ### Hi there 👋
 😄 My is name Andrew Gyakobo
 
-🔭 I am a simple student at NJIT persuing a Computer Engineering Degree
+🔭 I am an aspiring student at NJIT persuing a Computer Engineering Degree
 
 <!--
 **Gyakobo/Gyakobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
