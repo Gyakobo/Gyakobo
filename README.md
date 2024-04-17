@@ -1,7 +1,9 @@
 ### Hi there 👋
-😄 My is name Andrew Gyakobo
+😄 My is name Andrew Gyakobo!
 
-🔭 I am an aspiring student at NJIT persuing a Computer Science Degree
+🔭 I am a research assistant and Java app developer at New Jersey Institute of Technology (NJIT), where I design and develop Java applications for school projects, focusing on seamless user experiences and compatibility with cloud databases. I am also pursuing a Bachelor of Applied Science in Computer Science, with a strong interest in software engineering, web development, and artificial intelligence. I have acquired skills in Git, MongoDB, GitHub, C#, and Java through my coursework and work experience.
+
+Recently, I completed a software engineering internship at Solera, Inc., where I developed C# / .Net code and constructed HTML websites for various clients. I also won the first place in HackNJIT 2021, where I built a physics engine that simulates fluid mechanics and object viscosity from scratch in C++, using the OpenGL and GFLW3 libraries. I am passionate about creating innovative and impactful solutions that can enhance the lives of people and communities. I am eager to learn from and collaborate with diverse and talented teams, and contribute to the vision and mission of the organization.
 
 <!--
 **Gyakobo/Gyakobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
