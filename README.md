@@ -14,8 +14,8 @@ I thrive on creating innovative solutions that make a difference in people's liv
 Let's build something amazing together! 🌟
 
 <p align='center'>
-  <a href="https://github.com/Gyakobo">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+  <a href="https://devpost.com/AndrewGyakobo?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/andrew-gyakobo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
