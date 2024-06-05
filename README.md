@@ -1,21 +1,20 @@
-### Hi there 👋
-😄 My is name Andrew Gyakobo!
+# Hi there! 👋 I'm Andrew Gyakobo
+🔭 Research Assistant & Java Developer @ NJIT
+ 
+ 
 
-🔭 I am a research assistant and Java app developer at New Jersey Institute of Technology (NJIT), where I design and develop Java applications for school projects, focusing on seamless user experiences and compatibility with cloud databases. I am also pursuing a Bachelor of Applied Science in Computer Science, with a strong interest in software engineering, web development, and artificial intelligence. I have acquired skills in Git, MongoDB, GitHub, C#, and Java through my coursework and work experience.
+Designing and developing cutting-edge Java applications at the New Jersey Institute of Technology (NJIT), I focus on creating seamless user experiences and ensuring compatibility with cloud databases. As I pursue my Bachelor of Applied Science in Computer Science, I dive deep into software engineering, web development, and artificial intelligence. My toolkit includes Git, MongoDB, GitHub, C#, and, of course, Java.
 
-Recently, I completed a software engineering internship at Solera, Inc., where I developed C# / .Net code and constructed HTML websites for various clients. I also won the first place in HackNJIT 2021, where I built a physics engine that simulates fluid mechanics and object viscosity from scratch in C++, using the OpenGL and GFLW3 libraries. I am passionate about creating innovative and impactful solutions that can enhance the lives of people and communities. I am eager to learn from and collaborate with diverse and talented teams, and contribute to the vision and mission of the organization.
+🚀 Software Engineering Intern @ Solera, Inc.
+ 
+ 
 
-<!--
-**Gyakobo/Gyakobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+During my recent internship at Solera, Inc., I honed my skills by developing robust C#/.Net code and building dynamic HTML websites for clients. My work experience is complemented by an impressive win at HackNJIT 2021, where I secured first place with a physics engine simulating fluid mechanics and object viscosity in C++, using OpenGL and GFLW3 libraries.
 
-Here are some ideas to get you started:
+🏆 Passionate Innovator & Award-Winning Developer
+ 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive on creating innovative solutions that make a difference in people's lives. My passion for learning and collaboration drives me to engage with diverse and talented teams, always aiming to contribute meaningfully to the vision and mission of any organization I join.
+
+Let's build something amazing together! 🌟
