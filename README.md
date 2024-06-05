@@ -12,3 +12,16 @@ During my recent internship at Solera, Inc., I honed my skills by developing rob
 I thrive on creating innovative solutions that make a difference in people's lives. My passion for learning and collaboration drives me to engage with diverse and talented teams, always aiming to contribute meaningfully to the vision and mission of any organization I join.
 
 Let's build something amazing together! 🌟
+
+<p align='center'>
+  <a href="https://github.com/Gyakobo">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/andrew-gyakobo/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Gyakobo&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
