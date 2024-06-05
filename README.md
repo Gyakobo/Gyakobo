@@ -14,7 +14,7 @@ I thrive on creating innovative solutions that make a difference in people's liv
 Let's build something amazing together! 🌟
 
 <p align='center'>
-  <a href="andygyakobo@gmail.com">
+  <a href="mailto: andygyakobo@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
  
