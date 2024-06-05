@@ -28,10 +28,10 @@ Let's build something amazing together! 🌟
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Gyakobo&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Gyakobo&show_icons=true&count_private=true&theme=dark"></a>
 </p>
 
-<p align='left'>
+<p align='center'>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gyakobo&theme=github" />
 </p>
 
