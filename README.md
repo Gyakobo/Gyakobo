@@ -30,3 +30,7 @@ Let's build something amazing together! 🌟
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Gyakobo&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+
+<p>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gyakobo" />
+</p>
