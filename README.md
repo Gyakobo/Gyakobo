@@ -16,11 +16,12 @@ Let's build something amazing together! 🌟
 <p align='center'>
   <a href="andygyakobo@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a>&nbsp;&nbsp;
  
   <a href="https://devpost.com/AndrewGyakobo?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/andrew-gyakobo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
