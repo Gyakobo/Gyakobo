@@ -37,5 +37,5 @@ Let's build something amazing together! 🌟
 </p>
 
 <p align='center'>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gyakobo&theme=rogue" width="320" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gyakobo&theme=rogue" />
 </p>
