@@ -32,10 +32,10 @@ Let's build something amazing together! 🌟
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Gyakobo&show_icons=true&count_private=true&theme=dark" width="450"></a>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gyakobo&theme=default" width="470"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Gyakobo&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gyakobo&theme=default" width="370"></a>
 </p>
 
 <p align='center'>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gyakobo&theme=rogue" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gyakobo&theme=rogue" width="400"/>
 </p>
