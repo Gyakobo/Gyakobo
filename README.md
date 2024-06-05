@@ -32,5 +32,5 @@ Let's build something amazing together! 🌟
 </p>
 
 <p>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gyakobo&theme=react-dark" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gyakobo&theme=github" />
 </p>
