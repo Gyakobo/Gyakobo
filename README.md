@@ -15,7 +15,7 @@ Let's build something amazing together! 🌟
 
 <p align='center'>
   <a href="andygyakobo@gmail.com">
-   ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
  
   <a href="https://devpost.com/AndrewGyakobo?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
