@@ -35,3 +35,6 @@ Let's build something amazing together! 🌟
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gyakobo&theme=rogue" />
 </p>
 
+<p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gyakobo&theme=default" />
+</p>
