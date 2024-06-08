@@ -5,7 +5,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 
 🚀 Software Developer Intern @ Amazon AWS, Inc.
 
-ReactJS and TypeScript developer.
+ReactJS developer.
 
 🚀 Software Engineering Intern @ Solera, Inc.
  
