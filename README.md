@@ -3,11 +3,11 @@
  
 Designing and developing cutting-edge Java applications at the New Jersey Institute of Technology (NJIT), I focus on creating seamless user experiences and ensuring compatibility with cloud databases. As I pursue my Bachelor of Applied Science in Computer Science, I dive deep into software engineering, web development, and artificial intelligence. My toolkit includes Git, MongoDB, GitHub, C#, and, of course, Java.
 
-🚀 **Software Developer Intern @ Amazon AWS, Inc.**
+🚀 __*Software Developer Intern @ Amazon AWS, Inc.*__
 
 ReactJS developer.
 
-🚀 **Software Engineering Intern @ Solera, Inc.**
+🚀 __*Software Engineering Intern @ Solera, Inc.*__
  
 During my recent internship at Solera, Inc., I honed my skills by developing robust C#/.Net code and building dynamic HTML websites for clients. My work experience is complemented by an impressive win at HackNJIT 2021, where I secured first place with a physics engine simulating fluid mechanics and object viscosity in C++, using OpenGL and GFLW3 libraries.
 
