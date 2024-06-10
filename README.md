@@ -28,6 +28,13 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 
 🚀 __*Center for Solar-Terrestrial Research (CSTR) Research Assistant, Data Analyst*__
 
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![image](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
+![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+
 > Wrote Python code to analyze vast arrays of temperature data(Ion Temperature, Electron Temperature, etc.) supplied by the Poker Flat IS Radar (in short a radio telescope). Determined an algorithm to trace sudden spikes in the atmospheric Ion temperature in order to locate and track the unknown phenomenon of Strong Thermal Emission Velocity Enhancement (STEVE). Established a new dataset determining the various altitudes where STEVEs or STEVE related events occur
 
 🏆 Passionate Innovator & Developer
