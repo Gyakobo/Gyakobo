@@ -26,7 +26,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
  
 > During my recent internship at Solera, Inc., I honed my skills by developing robust C#/.Net code and building dynamic HTML websites for clients. My work experience is complemented by an impressive win at HackNJIT 2021, where I secured first place with a physics engine simulating fluid mechanics and object viscosity in C++, using OpenGL and GFLW3 libraries.
 
-🚀 __*Center for Solar-Terrestrial Research (CSTR) Research Assistant, Data Analyst*__
+🚀 __*Research Assistant, Data Analyst @ Center for Solar-Terrestrial Research (CSTR)*__
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
