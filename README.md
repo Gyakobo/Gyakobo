@@ -51,7 +51,7 @@ I thrive on creating innovative solutions that make a difference in people's liv
 
 Let's build something amazing together! 🌟
 
-## Contact Information and Analytics
+## 📊 Contact Information and Analytics
 
 <p align='center'>
   <a href="mailto: andygyakobo@gmail.com">
