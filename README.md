@@ -26,7 +26,11 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
  
 > During my recent internship at Solera, Inc., I honed my skills by developing robust C#/.Net code and building dynamic HTML websites for clients. My work experience is complemented by an impressive win at HackNJIT 2021, where I secured first place with a physics engine simulating fluid mechanics and object viscosity in C++, using OpenGL and GFLW3 libraries.
 
-### 🚀 __*Research Assistant, Data Analyst @ Center for Solar-Terrestrial Research (CSTR)*__
+### 🚀 __*Research Assistant, Java App Developer @ Intelligent Transportation Systems Resource Center (ITSRC) at NJIT*__
+
+> Manufactured and integrated a java app which uses the university on-campus surveillance to inform driver’s of potential jaywalkers. Ensured compatibility and integration between Java apps and the Verizon cloud database.
+
+### 🚀 __*Research Assistant, Data Analyst @ Center for Solar-Terrestrial Research (CSTR) at NJIT*__
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -42,6 +46,8 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 I thrive on creating innovative solutions that make a difference in people's lives. My passion for learning and collaboration drives me to engage with diverse and talented teams, always aiming to contribute meaningfully to the vision and mission of any organization I join.
 
 Let's build something amazing together! 🌟
+
+## Contact Information and Analytics
 
 <p align='center'>
   <a href="mailto: andygyakobo@gmail.com">
