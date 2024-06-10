@@ -10,6 +10,13 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 > ReactJS developer.
 
 🚀 __*Software Engineering Intern @ Solera, Inc.*__
+
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
  
 > During my recent internship at Solera, Inc., I honed my skills by developing robust C#/.Net code and building dynamic HTML websites for clients. My work experience is complemented by an impressive win at HackNJIT 2021, where I secured first place with a physics engine simulating fluid mechanics and object viscosity in C++, using OpenGL and GFLW3 libraries.
 
