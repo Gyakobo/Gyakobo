@@ -59,6 +59,10 @@ Let's build something amazing together! 🌟
   <a href="mailto: andygyakobo@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
+
+  <a href="https://www.youtube.com/channel/UCeTAsnJXHXsdjvaFlME6xGg">
+   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>&nbsp;&nbsp;
  
   <a href="https://devpost.com/AndrewGyakobo?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" />        
