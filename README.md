@@ -28,6 +28,10 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 
 #### 🚀 __*Research Assistant, Java App Developer @ Intelligent Transportation Systems Resource Center (ITSRC) at NJIT*__
 
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![image](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white)
+![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 > Manufactured and integrated a java app which uses the university on-campus surveillance to inform driver’s of potential jaywalkers. Ensured compatibility and integration between Java apps and the Verizon cloud database.
 
 #### 🚀 __*Research Assistant, Data Analyst @ Center for Solar-Terrestrial Research (CSTR) at NJIT*__
