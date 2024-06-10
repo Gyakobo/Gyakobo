@@ -5,7 +5,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 
 ## 🔥 Experience:
 
-### 🚀 __*Software Developer Intern @ Amazon AWS, Inc.*__
+#### 🚀 __*Software Developer Intern @ Amazon AWS, Inc.*__
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -15,7 +15,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 
 > ReactJS developer.
 
-### 🚀 __*Software Engineering Intern @ Solera, Inc.*__
+#### 🚀 __*Software Engineering Intern @ Solera, Inc.*__
 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -26,11 +26,11 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
  
 > During my recent internship at Solera, Inc., I honed my skills by developing robust C#/.Net code and building dynamic HTML websites for clients. My work experience is complemented by an impressive win at HackNJIT 2021, where I secured first place with a physics engine simulating fluid mechanics and object viscosity in C++, using OpenGL and GFLW3 libraries.
 
-### 🚀 __*Research Assistant, Java App Developer @ Intelligent Transportation Systems Resource Center (ITSRC) at NJIT*__
+#### 🚀 __*Research Assistant, Java App Developer @ Intelligent Transportation Systems Resource Center (ITSRC) at NJIT*__
 
 > Manufactured and integrated a java app which uses the university on-campus surveillance to inform driver’s of potential jaywalkers. Ensured compatibility and integration between Java apps and the Verizon cloud database.
 
-### 🚀 __*Research Assistant, Data Analyst @ Center for Solar-Terrestrial Research (CSTR) at NJIT*__
+#### 🚀 __*Research Assistant, Data Analyst @ Center for Solar-Terrestrial Research (CSTR) at NJIT*__
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
