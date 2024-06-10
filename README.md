@@ -13,7 +13,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-> ReactJS developer.
+> ReactJS and TypeScript developer.
 
 #### 🚀 __*Software Engineering Intern @ Solera, Inc.*__
 
@@ -32,6 +32,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 ![image](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![image](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white)
 ![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 > Manufactured and integrated a java app which uses the university on-campus surveillance to inform driver’s of potential jaywalkers. Ensured compatibility and integration between Java apps and the Verizon cloud database.
 
