@@ -12,6 +12,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![image](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 > ReactJS and TypeScript developer.
