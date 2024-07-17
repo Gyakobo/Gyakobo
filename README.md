@@ -16,7 +16,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-> ReactJS and TypeScript developer.
+> ReactJS and TypeScript developer. Developed internal scaffolding tools that helped generate new web pages.
 
 #### 🚀 __*Software Engineering Intern @ Solera, Inc.*__
 
