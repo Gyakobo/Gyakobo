@@ -16,7 +16,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-> Developed internal scaffolding tools to generate new web pages and create API systems.
+> Developed internal web scaffolding tools to generate new web pages and create API systems.
 
 #### 🚀 __*Software Engineering Intern @ Solera, Inc.*__
 
