@@ -5,7 +5,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 
 ## 🔥 Experience:
 
-#### 🚀 __*Software Developer Intern @ Amazon AWS, Inc.*__
+#### 🚀 __*Software Developer Intern @ Amazon Web Services (AWS), Inc.*__
 
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
