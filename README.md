@@ -5,6 +5,15 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 
 ## 🔥 Experience:
 
+#### 🚀 __*Research Assistant, Java App Developer @ Intelligent Transportation Systems Resource Center (ITSRC) at NJIT*__
+
+![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![image](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white)
+![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+
+> Upcoming software developer
+
 #### 🚀 __*Software Developer Intern @ Amazon Web Services (AWS), Inc.*__
 
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
