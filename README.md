@@ -20,7 +20,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 
 > Developed internal web scaffolding tools to generate new web pages and create API systems.
 
-#### 🚀 __*Research Assistant, Java App Developer @ Intelligent Transportation Systems Resource Center (ITSRC) at NJIT*__
+#### 🚀 __*Research Assistant, Software Developer @ Swissler Innovative Robotics Lab at NJIT*__
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
