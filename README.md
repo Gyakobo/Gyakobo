@@ -30,6 +30,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 ![image](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![image](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white)
 ![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 > Upcoming software developer
@@ -42,6 +43,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
  
 > During my recent internship at Solera, Inc., I honed my skills by developing robust C#/.Net code and building dynamic HTML websites for clients.
@@ -53,6 +55,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 ![image](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![image](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white)
 ![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 > Manufactured and integrated a java app which uses the university on-campus surveillance to inform driver’s of potential jaywalkers. Ensured compatibility and integration between Java apps and the Verizon cloud database.
@@ -64,6 +67,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![image](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 > Wrote [Python code](https://github.com/Gyakobo/STEVE) to analyze vast arrays of temperature data(Ion Temperature, Electron Temperature, etc.) supplied by the Poker Flat IS Radar (in short a radio telescope). Determined an algorithm to trace sudden spikes in the atmospheric Ion temperature in order to locate and track the unknown phenomenon of Strong Thermal Emission Velocity Enhancement (STEVE). Established a new dataset determining the various altitudes where STEVEs or STEVE related events occur
