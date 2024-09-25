@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Andrew Gyakobo
-🔭 Research Assistant & Java Developer @ NJIT
+🔭 Research Assistant & Developer @ NJIT
  
 Designing and developing cutting-edge Java applications at the New Jersey Institute of Technology (NJIT), I focus on creating seamless user experience and ensuring compatibility with cloud databases. As I pursue my Bachelor of Applied Science in Computer Science, I dive deep into software engineering, web development, and artificial intelligence. My toolkit includes Git, MongoDB, GitHub, C#, and, of course, Java.
 
