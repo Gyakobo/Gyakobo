@@ -21,6 +21,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 > Developed internal web scaffolding tools to generate new web pages and create API systems.
+> Worked on API requests and managed databases.
 
 #### 🚀 __*Research Assistant, Software Developer @ Swissler Innovative Robotics Lab at NJIT*__
 
