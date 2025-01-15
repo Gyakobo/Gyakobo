@@ -5,7 +5,7 @@ Designing and developing cutting-edge Java applications at the New Jersey Instit
 
 My resume: [Resume](https://github.com/Gyakobo/Gyakobo/blob/main/resume_for_ATS_2_pdf.pdf)
 
-Here's a version specifically for all those pesky ATS systems [Word Resume Format](https://github.com/Gyakobo/Gyakobo/blob/main/resume_for_ATS_2.docx)
+For all the __recruitors__, here's a version specifically for all those pesky ATS systems [Word Resume Format](https://github.com/Gyakobo/Gyakobo/blob/main/resume_for_ATS_2.docx)
 
 ## 🔥 Experience:
 
