@@ -3,6 +3,8 @@
  
 Designing and developing cutting-edge Java applications at the New Jersey Institute of Technology (NJIT), I focus on creating seamless user experience and ensuring compatibility with cloud databases. As I pursue my Bachelor of Applied Science in Computer Science, I dive deep into software engineering, web development, and artificial intelligence. My toolkit includes Git, MongoDB, GitHub, C#, and, of course, Java.
 
+My resume: [Resume](https://github.com/Gyakobo/Gyakobo/blob/main/resume_for_ATS_2_pdf.pdf)
+
 ## 🔥 Experience:
 
 #### 🚀 __*Software Developer Intern @ Amazon Web Services (AWS), Inc.*__
