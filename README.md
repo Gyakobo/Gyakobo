@@ -68,18 +68,21 @@ For all the __recruitors__, here's a version specifically for all those pesky AT
 
 > Manufactured and integrated a java app which uses the university on-campus surveillance to inform driver’s of potential jaywalkers. Ensured compatibility and integration between Java apps and the Verizon cloud database.
 
-#### 🚀 __*Research Assistant, Data Analyst @ Center for Solar-Terrestrial Research (CSTR) at NJIT*__
+<details>
+ <summary>Previous Experiment</summary>
+  #### 🚀 __*Research Assistant, Data Analyst @ Center for Solar-Terrestrial Research (CSTR) at NJIT*__
 
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![image](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
-![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+  ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+  ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+  ![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+  ![image](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
+  ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
-> Wrote [Python code](https://github.com/Gyakobo/STEVE) to analyze vast arrays of temperature data(Ion Temperature, Electron Temperature, etc.) supplied by the Poker Flat IS Radar (in short a radio telescope). Determined an algorithm to trace sudden spikes in the atmospheric Ion temperature in order to locate and track the unknown phenomenon of Strong Thermal Emission Velocity Enhancement (STEVE). Established a new dataset determining the various altitudes where STEVEs or STEVE related events occur
-
+  > Wrote [Python code](https://github.com/Gyakobo/STEVE) to analyze vast arrays of temperature data(Ion Temperature, Electron Temperature, etc.) supplied by the Poker Flat IS Radar (in short a radio telescope). Determined an algorithm to trace sudden spikes in the atmospheric Ion temperature in order to locate and track the unknown phenomenon of Strong Thermal Emission Velocity Enhancement (STEVE). Established a new dataset determining the various altitudes where STEVEs or STEVE related events occur
+</details>
+ 
 ## 🏆 Passionate Innovator & Developer
 
 I thrive on creating innovative solutions that make a difference in people's lives. My passion for learning and collaboration drives me to engage with diverse and talented teams, always aiming to contribute meaningfully to the vision and mission of any organization I join.
