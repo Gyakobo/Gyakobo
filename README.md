@@ -69,7 +69,7 @@ For all the __recruitors__, here's a version specifically for all those pesky AT
 > Manufactured and integrated a java app which uses the university on-campus surveillance to inform driver’s of potential jaywalkers. Ensured compatibility and integration between Java apps and the Verizon cloud database.
 
 <details>
- <summary><h3>Previous Experience</h3></summary>
+ <summary><p>Previous Experience</p></summary>
  
   #### 🚀 __*Research Assistant, Data Analyst @ Center for Solar-Terrestrial Research (CSTR) at NJIT*__
 
