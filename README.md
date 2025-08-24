@@ -27,6 +27,7 @@ For all the __recruitors__, here's a version specifically for all those pesky AT
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 > Developed full-stack web applications using Python Flask, SQLAlchemy, and React (TanStack Query) to deliver scalable and performant solutions. Implemented and optimized RESTful APIs and database models with SQLAlchemy, improving query efficiency and maintainability. Wrote comprehensive technical documentation to support onboarding, code maintainability, and cross-team collaboration. Designed and executed unit tests and integration tests, increasing code coverage and ensuring application reliability.
 
