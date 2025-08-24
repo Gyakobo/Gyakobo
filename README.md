@@ -32,6 +32,10 @@ For all the __recruitors__, here's a version specifically for all those pesky AT
 ![image](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![image](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![image](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703)
+![image](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 > Developed full-stack web applications using Python Flask, SQLAlchemy, and React (TanStack Query) to deliver scalable and performant solutions. Implemented and optimized RESTful APIs and database models with SQLAlchemy, improving query efficiency and maintainability. Wrote comprehensive technical documentation to support onboarding, code maintainability, and cross-team collaboration. Designed and executed unit tests and integration tests, increasing code coverage and ensuring application reliability.
 
