@@ -32,6 +32,8 @@ For all the __recruitors__, here's a version specifically for all those pesky AT
 ![image](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 ![image](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![image](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![image](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto)
 
 > Engineered the messaging feature of a cross-platform dating application using React-Native, ensuring real-time communication and seamless user interactions.
 Developed and integrated the video calling module leveraging Agora and third-party APIs, enabling high-quality peer-to-peer video connections within the app.
