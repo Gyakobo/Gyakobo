@@ -48,8 +48,7 @@ For all the __recruitors__, here's a version specifically for all those pesky AT
 > Engineered the messaging feature of a cross-platform dating application using React-Native, ensuring real-time communication and seamless user interactions.
 Developed and integrated the video calling module leveraging Agora and third-party APIs, enabling high-quality peer-to-peer video connections within the app.
 
-Developer of [Vybes App](https://apps.apple.com/in/app/vybes-inc/id6739865008)
-Developer of [RapidReach](https://getrapidreach.com/)
+Developer of [Vybes App](https://apps.apple.com/in/app/vybes-inc/id6739865008) and [RapidReach](https://getrapidreach.com/)
 
 #### 🚀 __*Python Developer II @ Comcast*__
 
