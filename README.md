@@ -9,7 +9,7 @@ For all the __recruitors__, here's a version specifically for all those pesky AT
 
 ## 🔥 Experience:
 
-#### 🚀 __*Software Developer @ Kanopy Labs*__
+### 🚀 __*Software Developer @ Kanopy Labs*__
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -53,7 +53,7 @@ Developed and integrated the video calling module leveraging Agora and third-par
 
 Developer of [Vybes App](https://apps.apple.com/in/app/vybes-inc/id6739865008) and [RapidReach](https://getrapidreach.com/)
 
-#### 🚀 __*Python Developer II @ Comcast*__
+### 🚀 __*Python Developer II @ Comcast*__
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -91,7 +91,7 @@ Developer of [Vybes App](https://apps.apple.com/in/app/vybes-inc/id6739865008) a
 
 > Developed full-stack web applications using Python Flask, SQLAlchemy, and React (TanStack Query) to deliver scalable and performant solutions. Implemented and optimized RESTful APIs and database models with SQLAlchemy, improving query efficiency and maintainability. Wrote comprehensive technical documentation to support onboarding, code maintainability, and cross-team collaboration. Designed and executed unit tests and integration tests, increasing code coverage and ensuring application reliability.
 
-#### 🚀 __*Software Developer Intern @ Amazon Web Services (AWS), Inc.*__
+### 🚀 __*Software Developer Intern @ Amazon Web Services (AWS), Inc.*__
 
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -109,7 +109,7 @@ Developer of [Vybes App](https://apps.apple.com/in/app/vybes-inc/id6739865008) a
 > Developed internal web scaffolding tools to generate new web pages and create API systems.
 > Worked on API requests and managed databases.
 
-#### 🚀 __*Research Assistant, Software Developer @ Swissler Innovative Robotics Lab at NJIT*__
+### 🚀 __*Research Assistant, Software Developer @ Swissler Innovative Robotics Lab at NJIT*__
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white)
@@ -124,7 +124,7 @@ Developer of [Vybes App](https://apps.apple.com/in/app/vybes-inc/id6739865008) a
 
 > Developed a bio-inspired [algorithm](https://github.com/Gyakobo/swarm) for road routing, simulating slime mold behavior for optimized network formation. Utilized Python and OSMnx to enhance route mapping efficiency in urban planning applications.
 
-#### 🚀 __*Software Engineering Intern @ Solera, Inc.*__
+### 🚀 __*Software Engineering Intern @ Solera, Inc.*__
 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -141,7 +141,7 @@ Developer of [Vybes App](https://apps.apple.com/in/app/vybes-inc/id6739865008) a
 <details>
  <summary><p>Previous Experience</p></summary>
 
-  #### 🚀 __*Research Assistant, Java App Developer @ Intelligent Transportation Systems Resource Center (ITSRC) at NJIT*__
+  ### 🚀 __*Research Assistant, Java App Developer @ Intelligent Transportation Systems Resource Center (ITSRC) at NJIT*__
 
   ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -153,7 +153,7 @@ Developer of [Vybes App](https://apps.apple.com/in/app/vybes-inc/id6739865008) a
 
   > Manufactured and integrated a java app which uses the university on-campus surveillance to inform driver’s of potential jaywalkers. Ensured compatibility and integration between Java apps and the Verizon cloud database.
  
-  #### 🚀 __*Research Assistant, Data Analyst @ Center for Solar-Terrestrial Research (CSTR) at NJIT*__
+  ### 🚀 __*Research Assistant, Data Analyst @ Center for Solar-Terrestrial Research (CSTR) at NJIT*__
 
   ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
